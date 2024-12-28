@@ -15,22 +15,26 @@ Optimization:
 
 Optimize the performance of the QA bot for better response time and accuracy.
 Experiment with different hyperparameters and configurations to achieve the best results.
+
 Technologies Used:
 OpenAI API: To integrate the language model for RAG.
 Pinecone DB: For efficient and scalable vector search.
 Google Colab: For notebook-based implementation and submission.
 Python: Primary programming language for implementing the bot and preprocessing datasets.
 Libraries: pandas, numpy, openai, pinecone-client, transformers, etc.
+
 Evaluation Criteria:
 Relevance: The accuracy and effectiveness of the QA bot in providing meaningful answers.
 Technical Accuracy: Proper use of RAG and other technologies, ensuring that the solution is technically sound.
 Clarity: Clean, well-documented, and easy-to-understand code.
 Creativity: Innovative approaches to enhance the bot's functionality and performance.
+
 How to Use:
 Clone this repository.
 Open the notebook QA_Bot_RAG.ipynb in Google Colab.
 Follow the instructions in the notebook to run the code and test the QA bot.
 Prepare and load your datasets as per the instructions to fine-tune the model.
+
 Submission:
 Submit the final Colab notebook containing the implemented solution, along with any relevant datasets and model files.
 Ensure that your code is well-documented, with explanations for key sections.
